@@ -2,11 +2,15 @@
 
 This is the data structure and algorithms path for the Mountblue Coding Bootcamp. 
 
-This document covers the topics that needs to be gone through for the whole bootcamp.
+The actual practice pedagogy involves starting with solving a given problem that leads to insights that unravel the concepts.
 
-The actual practice pedagogy involves starting with solving a given problem that leads to insights that unravel the concepts. 
+## Practice Websites
 
-The challenge is to find practice problems.
+1. [Leet Code](https://leetcode.com/)
+2. [Interview Bit](https://www.interviewbit.com/)
+3. [Hacker Rank](https://www.hackerrank.com/)
+
+## Topics to Cover
 
 ### Big-O Notation
 
